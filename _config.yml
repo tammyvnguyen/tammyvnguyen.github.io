@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Adventures of Reinventing a Stay at Home Mom
 header-img: img/home-bg.png
 email: tammyvnguyen@yahoo.com
 copyright_name: tammyvnguyen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I'm on the PURSUIT of Happiness
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tammyvnguyen
